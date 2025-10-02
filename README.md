@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="/assets/img_main.jpeg" alt="Sobre mí" style="width:90%; border-radius:12px;">
+      <img src="/assets/img_main.jpeg" alt="Sobre mí" style="width:100%; border-radius:12px;">
     </td>
     <td width="50%">
       <h2>Sobre mí</h2>
