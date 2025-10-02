@@ -2,16 +2,12 @@
 
 # ALLAN SAGASTEGUI
 
-[![SpringBoot](https://img.shields.io/badge/Backend-SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot) 
-[![Mobile](https://img.shields.io/badge/Mobile-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/) 
-[![Cloud](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
-
 </div>  
 
 <table>
   <tr>
     <td width="50%">
-      <img src="/assets/img_main.jpeg" alt="Sobre mí" style="width:100%; border-radius:12px;">
+      <img src="/assets/img_sobre_mi.jpeg" alt="Sobre mí" style="width:100%; border-radius:12px;">
     </td>
     <td width="50%">
       <div align="center">
@@ -62,13 +58,40 @@
       </p>
     </td>
     <td width="50%">
-      <img src="/assets/img2.jpeg" alt="Tecnologías" style="width:100%; border-radius:12px;">
+      <img src="/assets/img_tecnologias.jpeg" alt="Tecnologías" style="width:100%; border-radius:12px;">
     </td>
   </tr>
 </table>
 
+---
 
-
+<table>
+  <tr>
+    <td width="50%">
+      <img src="/assets/img_filosofia.jpeg" alt="Mi Filosofía" style="width:100%; border-radius:12px;">
+    </td>
+    <td width="50%">
+      <h2 align="center">Mi Filosofía</h2>
+      <blockquote>
+        <p><em>“Un buen código resuelve problemas.  
+        Un gran código inspira a crear más.”</em></p>
+      </blockquote>
+      <p>
+        Para mí, programar no se trata únicamente de hacer que algo funcione,  
+        sino de <strong>crear soluciones limpias, escalables y elegantes</strong>.  
+      </p>
+      <p>
+        Un código bien escrito no solo facilita el trabajo de otros desarrolladores,  
+        también transmite ideas, inspira buenas prácticas y abre camino para nuevas creaciones.
+      </p>
+      <p>
+        Creo en el poder del software como una forma de <strong>construir, compartir conocimiento y motivar a la comunidad</strong>.  
+        Cada proyecto es una oportunidad de dejar una huella: no solo en la solución técnica,  
+        sino en cómo otros pueden aprender, crecer y atreverse a crear más. 
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Estadísticas en GitHub  
 <div align="center">
@@ -80,8 +103,6 @@
 
 ---
 
-## Mí Filosofía  
-> “El código no solo debe funcionar, también debe inspirar a crear más.”  
 
 ---
 
