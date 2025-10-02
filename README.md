@@ -24,6 +24,10 @@
         Cuando no estoy programando, probablemente esté explorando nuevas prácticas de 
         <strong>Cloud & DevOps</strong>, afinando mis <strong>proyectos personales</strong> para llevarlos al siguiente nivel o explorando en la <strong>documentación</strong> de tecnologías de mi interés.
       </p>
+      <p>
+        También amo disfrutar de <strong>buena música</strong>, desde clásicos que nunca pasan de moda hasta descubrir nuevos géneros que me sorprenden. 
+        La música me acompaña mientras programo, me inspira cuando busco nuevas ideas y me ayuda a mantener el enfoque en los proyectos más desafiantes.
+      </p>
     </td>
   </tr>
 </table>
