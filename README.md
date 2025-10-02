@@ -89,20 +89,23 @@
   </tr>
 </table>
 
-<table style="width:100%;">
+<table width="100%">
   <tr>
-    <td style="width:50%;" valign="top">
+    <td width="50%" valign="top">
       <h2 align="center">Contáctame</h2>
-      <p>
+      <p align="center">
         <a href="https://www.linkedin.com/in/allan-sagastegui">LinkedIn</a> <br>
         <a href="mailto:sagasteguiherradaa@gmail.com">Email</a> <br>
         <a href="https://x.com/AllxnSxh?t=bLNPo7xBI6CgFVNz5fjgFg&s=08">X (Twitter)</a> <br>
         <a href="https://www.instagram.com/_ask.dev/">Instagram</a>
       </p>
     </td>
-    <td style="width:50%;" align="center" valign="top">
+    <td width="50%" valign="top" align="center">
       <h2>Estadísticas en GitHub</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanSagastegui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" style="width:100%; border-radius:12px;"/><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanSagastegui&layout=compact&theme=tokyonight&hide_border=true" 
+           alt="Top Langs" width="400px" style="border-radius:12px;"/><br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=AllanSagastegui&show_icons=true&theme=tokyonight&hide_border=true" 
+           alt="GitHub Stats" width="400px" style="border-radius:12px;"/>
     </td>
   </tr>
 </table>
