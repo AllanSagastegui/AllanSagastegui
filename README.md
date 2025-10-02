@@ -89,7 +89,7 @@
   </tr>
 </table>
 
-<table>
+<table style="width:100%;">
   <tr>
     <td width="50%" valign="top">
       <h2 align="center">Contáctame</h2>
