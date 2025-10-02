@@ -28,8 +28,6 @@
   </tr>
 </table>
 
----
-
 <table>
   <tr>
     <td width="50%">
@@ -59,8 +57,6 @@
   </tr>
 </table>
 
----
-
 <table>
   <tr>
     <td width="50%">
@@ -89,23 +85,28 @@
   </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h2 align="center">Contáctame</h2>
-      <p align="center">
-        <a href="https://www.linkedin.com/in/allan-sagastegui">LinkedIn</a> <br>
-        <a href="mailto:sagasteguiherradaa@gmail.com">Email</a> <br>
-        <a href="https://x.com/AllxnSxh?t=bLNPo7xBI6CgFVNz5fjgFg&s=08">X (Twitter)</a> <br>
-        <a href="https://www.instagram.com/_ask.dev/">Instagram</a>
-      </p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h2>Estadísticas en GitHub</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanSagastegui&layout=compact&theme=tokyonight&hide_border=true" 
-           alt="Top Langs" width="400px" style="border-radius:12px;"/><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=AllanSagastegui&show_icons=true&theme=tokyonight&hide_border=true" 
-           alt="GitHub Stats" width="400px" style="border-radius:12px;"/>
-    </td>
-  </tr>
-</table>
+## Estadísticas en GitHub  
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanSagastegui&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>  
+
+## Contáctame  
+<p align="center">
+  <a href="https://www.linkedin.com/in/allan-sagastegui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="mailto:sagasteguiherradaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://x.com/AllxnSxh?t=bLNPo7xBI6CgFVNz5fjgFg&s=08" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://www.instagram.com/_ask.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discordapp.com/users/689564989484302415" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
