@@ -1,6 +1,6 @@
 <div align="center">
 
-# ALLAN SAGASTEGUI  
+<img src="/assets/banner_allan.png"/>
 
 [![SpringBoot](https://img.shields.io/badge/Backend-SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot) 
 [![Mobile](https://img.shields.io/badge/Mobile-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/) 
