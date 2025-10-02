@@ -17,13 +17,12 @@
       <h2>Sobre mí</h2>
       <p>
         Soy un <strong>desarrollador apasionado por el backend en Java</strong> y el mundo 
-        <strong>mobile en Android</strong>.  
-        Me gusta aprender de manera constante, construir proyectos útiles y experimentar 
-        con nuevas tecnologías que mejoren la forma en que creamos software.
+        <strong>mobile multiplataforma (Kotlin, Swift y Flutter)</strong>.  
+        Disfruto diseñar soluciones escalables y limpias, cuidando la arquitectura y calidad de código. Me motiva mucho entender cómo funcionana las cosas "debajo del capó" y aplicar buenas prácticas que hagan que los proyectos sean mantenibles y evolucionen sin fricciones. 
       </p>
       <p>
         Cuando no estoy programando, probablemente esté explorando nuevas prácticas de 
-        <strong>Cloud & DevOps</strong> o afinando mis proyectos personales para llevarlos al siguiente nivel.
+        <strong>Cloud & DevOps</strong>, afinando mis <strong>proyectos personales</strong> para llevarlos al siguiente nivel o explorando en la <strong>documentación</strong> de tecnologías de mi interés.
       </p>
     </td>
   </tr>
