@@ -91,7 +91,7 @@
 
 <table style="width:100%;">
   <tr>
-    <td width="50%" valign="top">
+    <td style="width:50%;" valign="top">
       <h2 align="center">Contáctame</h2>
       <p>
         <a href="https://www.linkedin.com/in/allan-sagastegui">LinkedIn</a> <br>
@@ -100,7 +100,7 @@
         <a href="https://www.instagram.com/_ask.dev/">Instagram</a>
       </p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td style="width:50%;" align="center" valign="top">
       <h2>Estadísticas en GitHub</h2>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanSagastegui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" style="width:100%; border-radius:12px;"/><br>
     </td>
