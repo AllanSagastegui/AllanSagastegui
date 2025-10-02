@@ -14,7 +14,9 @@
       <img src="/assets/img_main.jpeg" alt="Sobre mí" style="width:100%; border-radius:12px;">
     </td>
     <td width="50%">
-      <h2>Sobre mí</h2>
+      <div align="center">
+        <h2>Sobre mí</h2>
+      </div>
       <p>
         Soy un <strong>desarrollador apasionado por el backend en Java</strong> y el mundo 
         <strong>mobile multiplataforma (Kotlin, Swift y Flutter)</strong>.  
@@ -37,21 +39,35 @@
 <table>
   <tr>
     <td width="50%">
-      <h2>Tecnologías que uso</h2>
+      <div align="center">
+        <h2>Tecnologías que Uso</h2>
+      </div>
+      <p>
+        A lo largo de mi trayectoria he trabajado con un stack variado que me permite abordar 
+        proyectos desde el backend hasta el mundo mobile y la nube. Estas son algunas de las 
+        tecnologías que más utilizo y disfruto aplicar en mis proyectos:
+      </p>
       <ul>
         <li><strong>Lenguajes:</strong> Java, Kotlin, Dart, Swift (básico)</li>
         <li><strong>Frameworks:</strong> Spring Boot, Flutter</li>
-        <li><strong>DevOps & Cloud:</strong> Docker, Terraform, AWS</li>
+        <li><strong>DevOps:</strong> Docker, Terraform</li>
+        <li><strong>Cloud:</strong> Firebase, AWS</li>
         <li><strong>Bases de datos:</strong> MySQL, MongoDB, DynamoDB</li>
         <li><strong>Herramientas:</strong> Git, Postman, Jira</li>
         <li><strong>IDEs favoritos:</strong> IntelliJ IDEA, VS Code, Eclipse</li>
       </ul>
+      <p>
+        Este stack me permite moverme entre el <strong>backend</strong>, el 
+        <strong>desarrollo mobile</strong> y la <strong>nube</strong> sin problema.
+      </p>
     </td>
     <td width="50%">
       <img src="/assets/img2.jpeg" alt="Tecnologías" style="width:100%; border-radius:12px;">
     </td>
   </tr>
 </table>
+
+
 
 
 ## Estadísticas en GitHub  
