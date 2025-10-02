@@ -32,21 +32,27 @@
   </tr>
 </table>
 
-## Lo que estoy aprendiendo actualmente  
-- **Spring WebFlux Avanzado** para aplicaciones reactivas y escalables  
-- **DevOps y Cloud** con Docker, AWS y Terraform  
-
 ---
 
-## Tecnologías que uso  
-- **Lenguajes:** Java, Kotlin, Dart, Swift (básico)  
-- **Frameworks:** Spring Boot, Flutter  
-- **DevOps & Cloud:** Docker, Terraform, AWS  
-- **Bases de datos:** MySQL, MongoDB, DynamoDB  
-- **Herramientas:** Git, Postman, Jira  
-- **IDEs favoritos:** IntelliJ IDEA, VS Code, Eclipse  
+<table>
+  <tr>
+    <td width="50%">
+      <h2>Tecnologías que uso</h2>
+      <ul>
+        <li><strong>Lenguajes:</strong> Java, Kotlin, Dart, Swift (básico)</li>
+        <li><strong>Frameworks:</strong> Spring Boot, Flutter</li>
+        <li><strong>DevOps & Cloud:</strong> Docker, Terraform, AWS</li>
+        <li><strong>Bases de datos:</strong> MySQL, MongoDB, DynamoDB</li>
+        <li><strong>Herramientas:</strong> Git, Postman, Jira</li>
+        <li><strong>IDEs favoritos:</strong> IntelliJ IDEA, VS Code, Eclipse</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="/assets/img2.jpeg" alt="Tecnologías" style="width:100%; border-radius:12px;">
+    </td>
+  </tr>
+</table>
 
----
 
 ## Estadísticas en GitHub  
 <div align="center">
