@@ -10,9 +10,7 @@
       <img src="/assets/img_sobre_mi.jpeg" alt="Sobre mí" style="width:100%; border-radius:12px;">
     </td>
     <td width="50%">
-      <div align="center">
-        <h2>Sobre mí</h2>
-      </div>
+      <h2 align="center">Sobre mí</h2>
       <p>
         Soy un <strong>desarrollador apasionado por el backend en Java</strong> y el mundo 
         <strong>mobile multiplataforma (Kotlin, Swift y Flutter)</strong>.  
@@ -35,9 +33,7 @@
 <table>
   <tr>
     <td width="50%">
-      <div align="center">
-        <h2>Tecnologías que Uso</h2>
-      </div>
+      <h2 align="center">Tecnologías que Uso</h2>
       <p>
         A lo largo de mi trayectoria he trabajado con un stack variado que me permite abordar 
         proyectos desde el backend hasta el mundo mobile y la nube. Estas son algunas de las 
@@ -93,21 +89,20 @@
   </tr>
 </table>
 
-## Estadísticas en GitHub  
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanSagastegui&layout=compact&theme=tokyonight&hide_border=true)  
-![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanSagastegui&show_icons=true&theme=tokyonight&hide_border=true)  
-
-</div>  
-
----
-
-
----
-
-## Contáctame  
-- [LinkedIn](https://www.linkedin.com/in/allan-sagastegui)
-- [Email](mailto:sagasteguiherradaa@gmail.com)
-- [X](https://x.com/AllxnSxh?t=bLNPo7xBI6CgFVNz5fjgFg&s=08)
-- [Instagram](https://www.instagram.com/_ask.dev/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2 align="center">Contáctame</h2>
+      <p>
+        <a href="https://www.linkedin.com/in/allan-sagastegui">LinkedIn</a> <br>
+        <a href="mailto:sagasteguiherradaa@gmail.com">Email</a> <br>
+        <a href="https://x.com/AllxnSxh?t=bLNPo7xBI6CgFVNz5fjgFg&s=08">X (Twitter)</a> <br>
+        <a href="https://www.instagram.com/_ask.dev/">Instagram</a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h2>Estadísticas en GitHub</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanSagastegui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" style="width:100%; border-radius:12px;"/><br>
+    </td>
+  </tr>
+</table>
