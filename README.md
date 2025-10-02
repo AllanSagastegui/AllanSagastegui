@@ -8,15 +8,27 @@
 
 </div>  
 
----
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/assets/img_main.jpeg" alt="Sobre mí" style="max-width: 100%; height: auto; border-radius: 12px;"/>
+  </div>
+  <div style="flex: 1;">
+    <h2>Sobre mí</h2>
+    <p>
+      Soy un <strong>desarrollador apasionado por el backend en Java</strong> y el mundo 
+      <strong>mobile en Android</strong>.  
+      Me gusta aprender de manera constante, construir proyectos útiles y experimentar 
+      con nuevas tecnologías que mejoren la forma en que creamos software.
+    </p>
+    <p>
+      Cuando no estoy programando, probablemente esté explorando nuevas prácticas de 
+      <strong>Cloud & DevOps</strong> o afinando mis proyectos personales para llevarlos al siguiente nivel.
+    </p>
+  </div>
+</div>
 
-## Sobre mí  
-Soy un **desarrollador apasionado por el backend en Java** y el mundo **mobile en Android**.  
-Me gusta aprender de manera constante, construir proyectos útiles y experimentar con nuevas tecnologías que mejoren la forma en que creamos software.  
 
-Cuando no estoy programando, probablemente esté explorando nuevas prácticas de **Cloud & DevOps** o afinando mis proyectos personales para llevarlos al siguiente nivel.  
 
----
 
 ## Lo que estoy aprendiendo actualmente  
 - **Spring WebFlux Avanzado** para aplicaciones reactivas y escalables  
